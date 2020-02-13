@@ -27,3 +27,5 @@ Você pode compartilhar \(copiar e redistribuir o material em qualquer suporte o
 
 Caso você encontre um erro neste manual, por favor [crie uma issue no repositório do projeto](https://github.com/ampliar/network-handbook/issues/new).
 
+O conteúdo foi fortemente baseado na [documentação de boas vindas da Impulso Network](http://welcome.impulso.network/).
+
