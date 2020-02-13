@@ -9,6 +9,8 @@ Workspace da Comunidade
 
 Caso você ainda não tenha o convite, leia a seção [Como Participar?](https://docs.ampliar.network/#como-participar)
 
+O Slack possui aplicativos para computador e celular. Visite [https://slack.com/download](https://slack.com/download) para instalar em seu dispositivo e facilitar o uso.
+
 ### Apresente-se!
 
 Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#intro](https://app.slack.com/client/TU02JP9AA/CU0AF00H5) e poste as informações abaixo:
