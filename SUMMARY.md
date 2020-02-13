@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Manual da Ampliar Network](README.md)
+* [Primeiros passos](primeiros-passos.md)
 
