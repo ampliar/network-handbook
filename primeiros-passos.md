@@ -11,6 +11,8 @@ Caso você ainda não tenha o convite, leia a seção [Como Participar?](https:/
 
 O Slack possui aplicativos para computador e celular. Visite [https://slack.com/download](https://slack.com/download) para instalar em seu dispositivo e facilitar o uso.
 
+O [guia de primeiros passos do Slack](https://app.slack.com/client/TU02JP9AA/learning-slack) ajuda a configurar  o seu perfil, enviar uma mensagem e instalar o Slack no seu computador ou celular.
+
 ### Apresente-se!
 
 Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#intro](https://app.slack.com/client/TU02JP9AA/CU0AF00H5) e poste as informações abaixo:
