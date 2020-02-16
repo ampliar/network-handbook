@@ -10,4 +10,5 @@
 ## Ajuda
 
 * [Não consegue fazer login?](ajuda/nao-consegue-fazer-login.md)
+* [Contato](ajuda/contato.md)
 
