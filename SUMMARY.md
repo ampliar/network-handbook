@@ -10,5 +10,6 @@
 ## Ajuda
 
 * [Não consegue fazer login?](ajuda/nao-consegue-fazer-login.md)
+* [Está complicado navegar?](ajuda/esta-complicado-navegar.md)
 * [Contato](ajuda/contato.md)
 
