@@ -4,6 +4,10 @@ Cada membro possui uma categoria de participação que determina as possibilidad
 
 Ao entrar na comunidade o participante já começa fazendo parte da Categoria Prata.
 
+{% hint style="info" %}
+As categorias Ouro e Diamante ainda não estão disponíveis para afiliação. Alguns dos benefícios destas categorias estão sendo oferecidos para todos os membros a título de degustação.
+{% endhint %}
+
 ### Membros Prata
 
 Todos os participantes podem usufruir de:
