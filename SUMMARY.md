@@ -6,6 +6,7 @@
 * [Canais privados para os experientes](canais-privados-para-os-experientes.md)
 * [Categorias e Benefícios](categorias-e-beneficios.md)
 * [Iniciativas da Comunidade](iniciativas-da-comunidade.md)
+* [Moderadores](moderadores.md)
 * [Código de Conduta](codigo-de-conduta.md)
 
 ## Ajuda
