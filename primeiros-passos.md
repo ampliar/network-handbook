@@ -18,7 +18,7 @@ Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#apre
 **Empresa que trabalha**:  
 **Cidade/Estado onde mora**:  
 **Linkedin**:  
-**Como conhecer a Impulso Network**:
+**Como conhecer a Ampliar Network**:
 
 ### Explore os canais
 
