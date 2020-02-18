@@ -14,9 +14,9 @@ Qualquer pessoa pode participar da comunidade, porém somente os profissionais d
 
 Para participar basta seguir os passos abaixo:
 
-1. Visite [https://www.ampliar.network](https://www.ampliar.network)
-2. Submeta o formulário com o seu e-mail
-3. Pronto! Você será direcionado ao servidor do Discord.
+1. [Crie uma conta no Discord](https://discordapp.com/register)
+2. Acesse o [servidor da Ampliar Network](https://ampliar.click/network/entrar)
+3. Pronto!
 
 ### Sobre este manual
 

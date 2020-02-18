@@ -3,8 +3,8 @@
 Para começar você deve estar com acesso ao nosso servidor no Discord.
 
 {% hint style="info" %}
-Para ter acesso, visite:  
-[https://www.ampliar.network](https://www.ampliar.network)
+Para receber o convite, visite:  
+[https://ampliar.click/network/entrar](https://ampliar.click/network/entrar)
 {% endhint %}
 
 O Discord possui aplicativos para computador e celular. Visite [https://discordapp.com/download](https://discordapp.com/download) para instalar em seu dispositivo e facilitar o uso.
