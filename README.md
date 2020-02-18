@@ -1,17 +1,22 @@
 # Manual da Ampliar Network
 
-A Ampliar Network é uma comunidade fechada para profissionais de marketing digital que trabalham com infoprodutos.
+### O que é?
+
+A Ampliar Network é uma comunidade aberta para profissionais de marketing digital que trabalham com infoprodutos.
+
+O objetivo da comunidade é ampliar o potencial de cada membro, seja no âmbito pessoal ou profissional, sejam em habilidades técnicas ou comportamentais.
+
+> Acreditamos que compartilhar experiência é a melhor forma de acelerar nossa evolução.
 
 ### Como Participar?
 
-Qualquer pessoa pode participar da comunidade, porém somente os profissionais da área terão acesso aos grupos fechados.
+Qualquer pessoa pode participar da comunidade, porém somente os profissionais da área terão acesso aos canais fechados.
 
 Para participar basta seguir os passos abaixo:
 
 1. Visite [https://www.ampliar.network](https://www.ampliar.network)
 2. Submeta o formulário com o seu e-mail
-3. Busque na sua caixa de entrada um email com o assunto **Ampliar Digital convidou você para um workspace no Slack**
-4. Clique no link do email e comece a interagir.
+3. Pronto! Você será direcionado ao servidor do Discord.
 
 ### Sobre este manual
 

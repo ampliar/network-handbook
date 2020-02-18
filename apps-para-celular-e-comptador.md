@@ -1,22 +1,22 @@
 # Apps para Celular e Computador
 
-O chat da Ampliar Network é baseado no Slack, plataforma de comunicação. Por isso, você pode usar os aplicativos e softwares oficiais do Slack. Aqui estão os links para download:
+O chat da Ampliar Network é baseado no Discord, plataforma de comunicação. Por isso, você pode usar os aplicativos e softwares oficiais do Discord. Aqui estão os links para download:
 
 ### Smartphone
 
-[Android](https://slack.com/intl/pt-br/downloads/android)
+[Android](https://play.google.com/store/apps/details?id=com.discord)
 
-[iOS](https://slack.com/intl/pt-br/downloads/ios)
+[iOS](https://itunes.apple.com/us/app/discord-chat-for-games/id985746746)
 
 ### Desktop
 
-[Windows](https://slack.com/intl/pt-br/downloads/windows)
+[Windows](https://discordapp.com/api/download?platform=win)
 
-[Mac](https://slack.com/intl/pt-br/downloads/mac)
+[macOS](https://discordapp.com/api/download?platform=osx)
 
-[Linux](https://slack.com/intl/pt-br/downloads/linux)
+[Linux - Debian](https://discordapp.com/api/download?platform=linux&format=deb)
 
 ### Web
 
-[https://app.slack.com/client/TU02JP9AA](https://app.slack.com/client/TU02JP9AA)
+[https://discordapp.com/channels/679021814004973595](https://discordapp.com/channels/679021814004973595)
 

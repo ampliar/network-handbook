@@ -14,7 +14,7 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 
 ### Moderadores Atuais
 
-* Rafael Lima \(@rafael\)
+* Rafael Lima \(@rafalima\)
 * Guilherme Salles \(@salles\)
 
 ### Quer se tornar um moderador?
