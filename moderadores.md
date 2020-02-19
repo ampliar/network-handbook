@@ -19,7 +19,9 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 
 ### Quer se tornar um moderador?
 
-Se você tem interesse em se tornar moderador da comunidade, fale com a equipe da Ampliar através do canal \#equipe-ampliarDiga que deseja ser moderador e responda as seguintes as perguntas:
+Se você tem interesse em se tornar moderador da comunidade, fale com a equipe da Ampliar através do canal **\#fale-com-a-equipe.**
+
+Diga que deseja ser moderador e responda as seguintes as perguntas:
 
 * Por que você quer ser moderador?
 * Qual sua experiência anterior com comunidades?

@@ -34,7 +34,7 @@ Os canais mais importantes são:
 
 [\#geral](https://discordapp.com/channels/679021814004973595/679021814004973598) → Principal canal para conversar com os outros membros e fazer networking.
 
-[\#jobs](https://discordapp.com/channels/679021814004973595/679182878936137768) → Oportunidades de trabalho e emprego oficiais dos projetos da Ampliar Digitai, disponíveis pelo serviço de agenciamento.
+[\#jobs](https://discordapp.com/channels/679021814004973595/679182878936137768) → Oportunidades de trabalho e emprego oficiais dos projetos da Ampliar Digital, disponíveis pelo serviço de agenciamento.
 
 Mais alguns canais legais para você acompanhar:
 
