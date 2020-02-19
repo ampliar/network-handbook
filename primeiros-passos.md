@@ -1,48 +1,52 @@
 # Primeiros passos
 
-Para começar você deve estar com acesso ao nosso workspace do Slack.
+Para começar você deve estar com acesso ao nosso servidor no Discord.
 
 {% hint style="info" %}
-Workspace da Comunidade  
-[https://ampliarnetwork.slack.com](https://ampliarnetwork.slack.com)
+Para receber o convite, visite:  
+[https://ampliar.click/network/entrar](https://ampliar.click/network/entrar)
 {% endhint %}
 
-Caso você ainda não tenha o convite, leia a seção [Como Participar?](https://docs.ampliar.network/#como-participar)
-
-O Slack possui aplicativos para computador e celular. Visite [https://slack.com/download](https://slack.com/download) para instalar em seu dispositivo e facilitar o uso.
-
-O [guia de primeiros passos do Slack](https://app.slack.com/client/TU02JP9AA/learning-slack) ajuda a configurar  o seu perfil, enviar uma mensagem e instalar o Slack no seu computador ou celular.
+O Discord possui aplicativos para computador e celular. Visite [https://discordapp.com/download](https://discordapp.com/download) para instalar em seu dispositivo e facilitar o uso.
 
 ### Apresente-se!
 
-Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#intro](https://app.slack.com/client/TU02JP9AA/CU0AF00H5) e poste as informações abaixo:
+Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#apresentações](https://discordapp.com/channels/679021814004973595/679022463723765771) e poste as informações abaixo:
 
 **Nome e Sobrenome**:  
 **Área de atuação**:  
 **Empresa que trabalha**:  
 **Cidade/Estado onde mora**:  
 **Linkedin**:  
-**Como conhecer a Impulso Network**:
+**Como conhecer a Ampliar Network**:
 
 ### Explore os canais
 
-Um workspace possui vários canais e cada canal é dedicado à discussão de um assunto específico. Fique atent@ a isso, é importante postar mensagens no canal somente sobre o assunto para o qual ele foi criado.
+Nossa comunidade possui vários canais e cada canal é dedicado à discussão de um assunto específico. Fique atent@ a isso, é importante postar mensagens no canal somente sobre o assunto para o qual ele foi criado.
 
-Alguns canais legais para você acompanhar:
+Os canais mais importantes são:
 
-[tráfego-pago](https://app.slack.com/client/TU02JP9AA/CU0A60UJK) → Canal para discussão sobre tráfego pago, anúncios em redes sociais, Facebook Ads, Google Adwork, Linkedin Ad, etc...
+[\#comunicados](https://discordapp.com/channels/679021814004973595/679182318027407361) → Destinado às comunicações oficiais do time da Ampliar Network.
 
-[copywriting](https://app.slack.com/client/TU02JP9AA/CTYEZ22KX) → Canal para discussão sobre “copy”, técnica de escrita com persuasão, cartas de venda, swipe files, etc...
+[\#geral](https://discordapp.com/channels/679021814004973595/679021814004973598) → Principal canal para conversar com os outros membros e fazer networking.
 
-[english-only](https://app.slack.com/client/TU02JP9AA/CTYDYP4TS) → For those who want to improve english skills. Para aqueles que querem melhorar o inglês.
+[\#jobs](https://discordapp.com/channels/679021814004973595/679182878936137768) → Oportunidades de trabalho e emprego oficiais dos projetos da Ampliar Digitai, disponíveis pelo serviço de agenciamento.
 
-Todas as pessoas podem criar quantos canais públicos quiserem. Fique a vontade, criei o seu canal, convide seus amigos e suas amigas e vamos conversar!
+Mais alguns canais legais para você acompanhar:
+
+[\#tráfego-pago](https://discordapp.com/channels/679021814004973595/679179080607989761) → Canal para discussão sobre tráfego pago, anúncios em redes sociais, Facebook Ads, Google Adwork, Linkedin Ad, etc...
+
+[\#copywriting](https://app.slack.com/client/TU02JP9AA/CTYEZ22KX) → Canal para discussão sobre “copy”, técnica de escrita com persuasão, cartas de venda, swipe files, etc...
+
+[\#english-only](https://discordapp.com/channels/679021814004973595/679183010792472597) → For those who want to improve english skills. Para aqueles que querem melhorar o inglês.
+
+Todas as pessoas podem escrever criar quantos canais públicos quiserem. Fique a vontade, convide seus amigos e suas amigas e vamos conversar!
 
 ### Atenção às regras
 
 Todo uso comercial da nossa rede só pode ser feito por parceiros autorizados. 🤙 
 
-Se você vende algum produto, serviço ou tem alguma empresa que queira anunciar algo na rede, fale com o [@rafael](https://app.slack.com/client/TU02JP9AA/DU0JYEL0P) ou com o [@salles](https://app.slack.com/client/TU02JP9AA/DU02JUW3Y) primeiro.
+Se você vende algum produto, serviço ou tem alguma empresa que queira anunciar algo na rede, fale com o @rafalima ou com o @salles primeiro.
 
 Assim, poderemos avaliar se existe fit com a rede e negociarmos uma contra-partida para a nossa comunidade. Desta forma, evitamos spams e nutrimos benefícios maneiros para todos!
 

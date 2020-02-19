@@ -24,7 +24,7 @@ A permanência nessa categoria é gratuita.
 
 Os participantes da categoria Ouro possuem os benefícios da categoria Prata e mais:
 
-* Acesso às oportunidade de trabalho
+* Acesso às oportunidades de trabalho
 * Clube de benefícios com desconto em mais de 30.000 estabelecimentos
 
 O investimento para permanência nessa categoria é de R$ 60/ano \(~ R$ 5/mês\)

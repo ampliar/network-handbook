@@ -7,6 +7,7 @@
 * [Categorias e Benefícios](categorias-e-beneficios.md)
 * [Iniciativas da Comunidade](iniciativas-da-comunidade.md)
 * [Moderadores](moderadores.md)
+* [Co-working Virtual](co-working-virtual.md)
 * [Código de Conduta](codigo-de-conduta.md)
 
 ## Ajuda
