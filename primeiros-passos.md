@@ -9,6 +9,10 @@ Para receber o convite, visite:
 
 O Discord possui aplicativos para computador e celular. Visite [https://discordapp.com/download](https://discordapp.com/download) para instalar em seu dispositivo e facilitar o uso.
 
+### Foto no Perfil
+
+Coloque uma foto no seu perfil para ser reconhecido mais facilmente. Usar uma foto no perfil é um requisito básico para participar de comunidades online ;-\)
+
 ### Apresente-se!
 
 Ao acessar pela primeira vez, apresente-se à comunidade. Acesse o canal [\#apresentações](https://discordapp.com/channels/679021814004973595/679022463723765771) e poste as informações abaixo:
